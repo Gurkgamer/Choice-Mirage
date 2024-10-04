@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c2nmot6g66tyg"
+path="res://.godot/imported/No Sunlight Here.ogg-29bb3929ca18f701189a3b6e1c56da84.oggvorbisstr"
+
+[deps]
+
+source_file="res://Resources/Audio/BGM/No Sunlight Here.ogg"
+dest_files=["res://.godot/imported/No Sunlight Here.ogg-29bb3929ca18f701189a3b6e1c56da84.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
