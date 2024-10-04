@@ -1,4 +1,6 @@
 # Choice Mirage
+My very first game, made in godot
+https://gurkgamer.itch.io/mirage-choice-minijam1-2024
 
 Submission for Novice Summer Jam Series 2024: Mini Jam 1
 https://itch.io/jam/nsjs-2024-jam-1
