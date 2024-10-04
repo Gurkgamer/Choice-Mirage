@@ -9,15 +9,13 @@ Gurk (@gurkgamer)
 
 ## Sprites from
 
-Pixel Adventure - by Pixel Frog
+Pixel Adventure -> by Pixel Frog
 
-Brackeys' Platformer Bundle - by Brackeys
+Brackeys' Platformer Bundle -> by Brackeys
 
 ## Music from
 
-16-Bit Starter Pack
-
-by Bert Cole - (bitbybitsound.com)
+16-Bit Starter Pack -> by Bert Cole - (bitbybitsound.com)
 
 ## SFX from 
   
