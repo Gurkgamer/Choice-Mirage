@@ -9,17 +9,17 @@ https://itch.io/jam/nsjs-2024-jam-1
 
 Gurk (@gurkgamer)
 
-## Sprites from
+## Sprites from Itch.io
 
 Pixel Adventure -> by Pixel Frog
 
 Brackeys' Platformer Bundle -> by Brackeys
 
-## Music from
+## Music from Itch.io
 
 16-Bit Starter Pack -> by Bert Cole - (bitbybitsound.com)
 
-## SFX from 
+## SFX from Itch.io
   
 Sound FX Pack 1 -> by edwardcufaude
 
